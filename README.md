@@ -13,7 +13,7 @@
 ### About Me
 
 - ICT student at **KTU**
-- Founder & Developer at **[NovuTech](#)** — a three-person student dev team
+- Founder & Developer at **[NovuTech](#)** — a team of dev students who turn ideas into projects....and sometimes into errors we swear we'll fix later...lmao
 - Currently leveling up in **TypeScript, React.js, Tailwind CSS & Framer Motion**
 - MySQL is currently winning. I am not giving up though.
 - I care about design *and* the code behind it — clean, intentional, and actually usable
@@ -52,7 +52,7 @@
 
 **SkillSwap** — a peer-to-peer skill exchange platform for students *(in progress)*
 
-> React + Vite · Tailwind CSS · Framer Motion · Supabase · Built with Triad Lab
+> React + Vite · Tailwind CSS · Framer Motion · Supabase · Built by NovuTech
 
 -----
 
@@ -79,6 +79,6 @@
 
 <div align="center">
 
-*Triad Lab · KTU · Ghana*
+*NovuTech · KTU · Ghana*
 
 </div>
