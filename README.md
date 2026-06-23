@@ -13,7 +13,7 @@
 ### About Me
 
 - ICT student at **KTU**
-- Founder & Developer at **[Triad Lab](#)** — a three-person student dev team
+- Founder & Developer at **[NovuTech](#)** — a three-person student dev team
 - Currently leveling up in **TypeScript, React.js, Tailwind CSS & Framer Motion**
 - MySQL is currently winning. I am not giving up though.
 - I care about design *and* the code behind it — clean, intentional, and actually usable
