@@ -46,9 +46,9 @@
 
 ### Current Projects
 
-**Acadex** — A student management platform for attendance, records, assignments & slides. [Live ](acadex-c6eotjemx-rosieeee344s-projects.vercel.app)
+**Acadex** — A student management platform for attendance, records, assignments & slides. [Live](https://acadex-c6eotjemx-rosieeee344s-projects.vercel.app)
 
-**My Portfolio** — [Live ](rosemary-portfolio-jade.vercel.app) 
+**My Portfolio** — [Live](https://rosemary-portfolio-jade.vercel.app) 
 
 **SkillSwap** — a peer-to-peer skill exchange platform for students *(in progress)*
 
