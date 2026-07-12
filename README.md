@@ -13,7 +13,7 @@
 ### About Me
 
 - ICT student at **KTU**
-- Founder & Developer at **[NovuTech](#)** — a team of dev students who turn ideas into projects....and sometimes into errors we swear we'll fix later...lmao
+- Founder & Developer at **[NovuTech](https://www.novutech.tech/)** — a team of dev students who turn ideas into projects....and sometimes into errors we swear we'll fix later...lmao
 - Currently leveling up in **TypeScript, React.js, Tailwind CSS & Framer Motion**
 - MySQL is currently winning. I am not giving up though.
 - I care about design *and* the code behind it — clean, intentional, and actually usable
