@@ -1,8 +1,8 @@
 <div align="center">
 
-# hey, I’m Rosie 
+# hey, I’m Rosemary Boahemaa Dwamena. 
 
-**Full Stack Developer (in training) · Student Founder · UI Tinkerer**
+**Student Developer · Student Founder · Xolace Ambassador · Core Maintainer @ Codetopia**
 
 *Building things that look good and actually work — from Ghana 🇬🇭*
 
@@ -12,11 +12,10 @@
 
 ### About Me
 
-- ICT student at **KTU**
+- Computer Science student at **KTU**
 - Founder & Developer at **[RoreDevs](https://www.roredevs.tech/)** — a team of dev students who turn ideas into projects....and sometimes into errors we swear we'll fix later...lmao
-- Currently leveling up in **TypeScript, React.js, Tailwind CSS & Framer Motion**
-- MySQL is currently winning. I am not giving up though.
-- I care about design *and* the code behind it — clean, intentional, and actually usable
+- Currently leveling up in **Web development, mobile app development, database structures, etc**
+- I care about design *and* the code behind it: clean, intentional, and actually usable
 - Side interests: perfumery, creative direction, and making things feel intentional
 
 -----
@@ -50,7 +49,7 @@
 
 **My Personal Brand** — [Live](https://www.rosemaryboahemaa.dev/)
 
-**SkillSwap** — a peer-to-peer skill exchange platform for students *(in progress)*
+**Seemul** — a peer-to-peer skill exchange platform for students *(in progress)*
 
 > React + Vite · Tailwind CSS · Framer Motion · Supabase · Built by NovuTech
 
@@ -72,13 +71,13 @@
 
 ### 🔗 Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=CCFF00)](https://www.linkedin.com/in/dwamena-rosemary-80b3a03b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=CCFF00)](https://www.linkedin.com/in/rosemaryboahemaa)
 [![Twitter](https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=CCFF00)](https://x.com/dwamen1dwamena?s=11)
 
 -----
 
 <div align="center">
 
-*NovuTech · KTU · Ghana*
+*RoreDevs · KTU · Ghana*
 
 </div>
