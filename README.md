@@ -2,7 +2,7 @@
 
 # hey, I’m Rosemary Boahemaa Dwamena. 
 
-**Student Developer · Student Founder · Xolace Ambassador · Core Maintainer @ Codetopia**
+**Student Developer · Student Founder · Xolace Ambassador · Core Maintainer @ Codetopia · Winner of Best ICT Student, COMPSSA Excellence Awards 2026 - KTU**
 
 *Building things that look good and actually work — from Ghana 🇬🇭*
 
