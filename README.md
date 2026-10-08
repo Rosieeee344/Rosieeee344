@@ -2,7 +2,7 @@
 
 # hey, I’m Rosemary Boahemaa Dwamena. 
 
-**Student Developer · Creator & Owner of Acadex · Xolace Ambassador · Core Maintainer @ Codetopia · Winner of Best ICT Student, COMPSSA Excellence Awards 2026 - KTU**
+**Student Developer · Creator & Owner of Acadex · Xolace Ambassador · Core Maintainer @ Codetopia · Winner of Best ICT Student, COMPSSA Excellence Awards 2026 - KTU, Founder and Team Lead at RoreDevs**
 
 *Building things that look good and actually work — from Ghana 🇬🇭*
 
